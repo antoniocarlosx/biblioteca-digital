@@ -1,0 +1,17 @@
+# Saída do Maven
+target/
+
+# Arquivos compilados
+*.class
+*.jar
+
+# Arquivos da IDE
+.idea/
+.vscode/
+.classpath
+.project
+.settings/
+
+# Logs e dados de uso
+*.log
+*.db
